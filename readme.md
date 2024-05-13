@@ -7,7 +7,7 @@ I'm primarily interested in **full-stack development** and currently intern remo
 
 I love learning new technologies, working with international teams, and streamlining systems and processes through automation.
 
-Outside of work, my interests include exploring new cities, traveling and video games.
+Outside of work, my interests include exploring new cities, traveling, art and video games.
 
 ### Let's connect! <img src="https://emojis.slackmojis.com/emojis/images/1643515258/12804/party_sparkles.png" width="25"/>
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/lrazon)
