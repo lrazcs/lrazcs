@@ -1,4 +1,4 @@
-![HeaderGIF](media/ranni2.webp)
+
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
 
 I'm Lieann, a computer science student at University of Florida, graduating May 2025
