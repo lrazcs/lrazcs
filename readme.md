@@ -1,8 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Lieann, a software engineer and systems analyst in Ft Lauderdale, FL.
+I'm Lieann, a software developer and systems analyst in Ft Lauderdale, FL.
 
-I currently work as a software engineer at Ace Aviation, where I develop, deploy and implement internal tools and software. Previously, I was an Applications Support Analyst at Phoenix Tower International.
+I currently work as a software developer/systems analyst at Ace Aviation, where I develop, deploy and implement internal tools and software. Previously, I was an Applications Support Analyst at Phoenix Tower International.
 
 I love learning new technologies, working with international teams, and streamlining systems and processes through automation.
 
